@@ -1,0 +1,42 @@
+
+#EXTM3U
+
+#EXTINF:-1,||pt|| BTV   LOCAL
+http://obsfullhd.tv:25461/starseven18/Q9qAzhkSJCHZ/36992
+#EXTINF:-1,PT1: BENFICA 4K
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78540
+
+#EXTINF:-1,PT1: BENFICA TV SD
+http://ucsxiptv.com:8080/nito/349ug730gj16rifg75mvb575pd840ldytemn48em1/78539
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
